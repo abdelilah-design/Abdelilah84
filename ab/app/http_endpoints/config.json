@@ -1,0 +1,14 @@
+[
+    {
+        "route": "/azed54",
+        "http_method": "POST",
+        "function_name": "myFunc",
+        "validation_method": "VERIFY_PAYLOAD",
+        "secret_name": "0613351603",
+        "respond_result": false,
+        "fetch_custom_user_data": true,
+        "create_user_on_auth": true,
+        "disabled": false,
+        "return_type": "JSON"
+    }
+]

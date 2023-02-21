@@ -1,0 +1,8 @@
+{
+    "enabled": false,
+    "mongo_service_name": "mongodb-atlas",
+    "database_name": "azfoot",
+    "collection_name": "az",
+    "user_id_field": "123456",
+    "on_user_creation_function_name": "resetFunc"
+}
